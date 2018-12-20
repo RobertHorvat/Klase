@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\Vj\Vj\bin\Debug\Vj.exe.config
+C:\Users\David\source\repos\Vj\Vj\bin\Debug\Vj.exe
+C:\Users\David\source\repos\Vj\Vj\bin\Debug\Vj.pdb
+C:\Users\David\source\repos\Vj\Vj\obj\Debug\Vj.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Vj\Vj\obj\Debug\Vj.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Vj\Vj\obj\Debug\Vj.exe
+C:\Users\David\source\repos\Vj\Vj\obj\Debug\Vj.pdb
+C:\Users\David\Desktop\Fax\visual\Vj\Vj\bin\Debug\Vj.exe.config
+C:\Users\David\Desktop\Fax\visual\Vj\Vj\bin\Debug\Vj.exe
+C:\Users\David\Desktop\Fax\visual\Vj\Vj\bin\Debug\Vj.pdb
+C:\Users\David\Desktop\Fax\visual\Vj\Vj\obj\Debug\Vj.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Fax\visual\Vj\Vj\obj\Debug\Vj.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Fax\visual\Vj\Vj\obj\Debug\Vj.exe
+C:\Users\David\Desktop\Fax\visual\Vj\Vj\obj\Debug\Vj.pdb
