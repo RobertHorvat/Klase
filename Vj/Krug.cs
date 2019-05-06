@@ -20,7 +20,7 @@ namespace Vj
 
         private void IzracunajOpseg()
         {
-            opseg = 2 * pi * polumjer;            
+            opseg =Math.PI*2*polumjer;           
         }
 
         public void ZadajPolumjer(double polumjer)
