@@ -11,7 +11,7 @@ namespace Vj
         private double polumjer;
         private double pi = 3.14;
         private double povrsina;
-        private double opseg;
+        private double krug;
 
         private void IzracunajPovrsinu()
         {
